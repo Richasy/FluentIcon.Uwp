@@ -7,7 +7,7 @@
     <owners>Richasy</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>https://github.com/Richasy/ExpanderEx</projectUrl>
+    <projectUrl>https://github.com/Richasy/FluentIcon.Uwp</projectUrl>
     <iconUrl>https://img13.360buyimg.com/ddimg/jfs/t1/188088/33/14701/6708/60fb9ab8E85f96c4b/3f120f67e4a52d19.png</iconUrl>
     <description>The encapsulation of Microsoft's Fluentui-system-icons makes it easier to use icons through enumeration.</description>
     <releaseNotes></releaseNotes>
