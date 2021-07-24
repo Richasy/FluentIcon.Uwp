@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Richasy.FluentIcon.Regular.UWP</id>
+    <version>1.1.135</version>
+    <authors>Richasy</authors>
+    <owners>Richasy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Richasy/ExpanderEx</projectUrl>
+    <iconUrl>https://img13.360buyimg.com/ddimg/jfs/t1/188088/33/14701/6708/60fb9ab8E85f96c4b/3f120f67e4a52d19.png</iconUrl>
+    <description>The encapsulation of Microsoft's Fluentui-system-icons makes it easier to use icons through enumeration.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Richasy uwp fluent icon winui</tags>
+    <dependencies>
+      <group targetFramework="uap10.0.17134">
+        <dependency id="Microsoft.NETCore.UniversalWindowsPlatform" version="6.2.10" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\Richasy.FluentIcon.Regular.Uwp.dll" target="lib\uap10.0.17134"/>
+    <file src="bin\Release\Richasy.FluentIcon.Regular.Uwp.pri" target="lib\uap10.0.17134"/>
+    <file src="bin\Release\Richasy.FluentIcon.Regular.Uwp\**\*" target="lib\uap10.0.17134\Richasy.FluentIcon.Regular.Uwp"/>
+  </files>
+</package>
